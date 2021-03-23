@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/mariana-pereira/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=mariana-pereira&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+    />
+  </a>
+  
+  <a href="https://github.com/mariana-pereira/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-pereira&&layout=compact&theme=dark"
+    />
+  </a>
+</p>
