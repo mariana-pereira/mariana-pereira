@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hey, I'm Mariana! 👋
+
+🤓 Fullstack developer at [Orbit Tecnologia](https://www.linkedin.com/company/orbit-hub/) <br>
+🇧🇷 Born in Sao Paulo, Brazil <br>
+
+### What I'm working on 👨‍💻
+
+- Currently building an application where you can search Github users - [GitExplorer](https://mp-git-explorer.netlify.app/) <br>
+
+### Find me elsewhere 🌎
+
+🐦 [Twitter](https://twitter.com/alwaysastranger) <br>
+📸 [Instagram](https://www.instagram.com/mariprr_) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/pereira-mariana) <br>
 
 <!--
 **mariana-pereira/mariana-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/mariana-pereira/github-readme-stats">
