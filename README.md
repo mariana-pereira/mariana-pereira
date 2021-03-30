@@ -5,7 +5,9 @@
 
 ### What I'm working on 👨‍💻
 
-- Currently building an application where you can search Github users - [GitExplorer](https://mp-git-explorer.netlify.app/) <br>
+- Building an application where you can search Github users - [GitExplorer](https://mp-git-explorer.netlify.app/) <br>
+- Building a collection of ReactJS snippets for VSCODE - [React Snippets](https://github.com/mariana-pereira/reactjs-snipets) <br>
+- Building an animate progress bar for React Native - []() <br>
 
 ### Find me elsewhere 🌎
 
