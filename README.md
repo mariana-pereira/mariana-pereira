@@ -3,17 +3,18 @@
 🤓 Fullstack developer at [Orbit Tecnologia](https://www.linkedin.com/company/orbit-hub/) <br>
 🇧🇷 Born in Sao Paulo, Brazil <br>
 
-### What I'm working on 👨‍💻
+### 🔭 I’m currently working on ...
 
 - Building an application where you can search Github users - [GitExplorer](https://mp-git-explorer.netlify.app/) <br>
 - Building a collection of ReactJS snippets for VSCODE - [React Snippets](https://github.com/mariana-pereira/reactjs-snipets) <br>
-- Building an animate progress bar for React Native - []() <br>
+- Building an animate progress bar for React Native - [React Native Animated Progress Indicator](https://github.com/mariana-pereira/react-native-animated-progress-indicator) <br>
 
-### Find me elsewhere 🌎
+### 📫 How to reach me: ...
 
 🐦 [Twitter](https://twitter.com/alwaysastranger) <br>
 📸 [Instagram](https://www.instagram.com/mariprr_) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/pereira-mariana) <br>
+📧 [Email](marianadealmeidapereira@outlook.com) <br>
 
 <!--
 **mariana-pereira/mariana-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
